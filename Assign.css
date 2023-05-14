@@ -1,0 +1,149 @@
+.green{
+    width: 2500px;
+    height: 500px;
+    background-color: #2ccc62;
+}
+.Team{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: -500px;
+    color: white;
+}
+.box1{
+    width: 370px;
+    height: 600px;
+    margin-left: 600px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 5px 5px 2px green;
+}
+.image1{
+    margin-top: -580px;
+    margin-left: 660px;
+}
+.box2{
+    width: 320px;
+    height: 250px;
+    margin-left: 630px;
+    margin-top: 30px;
+    background-color: #dcdcdc;
+}
+h3{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: -230px;
+    margin-left: 680px;
+}
+h4{
+    margin-left: 720px;
+    margin-top: -20px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.Para1{
+    text-align: center;
+    margin-left: -975px;
+    line-height: 20px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.fb{
+    margin-left: -100px;
+}
+.twit{
+    margin-top: -30px;
+}
+.insta{
+    margin-right: -100px;
+    margin-top: -35px;
+}
+.second{
+    width: 370px;
+    height: 600px;
+    margin-left: 1100px;
+    margin-top: -550px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 5px 5px 2px green;
+}
+.image2{
+    margin-top: -580px;
+    margin-left: 1165px;
+}
+.box3{
+    width: 320px;
+    height: 250px;
+    margin-left: 1125px;
+    margin-top: 30px;
+    background-color: #dcdcdc;
+}
+.head1{
+    margin-left: 490px;
+}
+.head2{
+    margin-left: 500px;
+}
+.para2{
+    text-align: center;
+    margin-left: 40px;
+    line-height: 20px;
+    font-size: 18px;
+    font-family: sans-serif;
+}  
+.fb1{
+    margin-left: 1220px;
+}
+.twit2{
+    margin-left: 1270px;
+    margin-top: -32px;
+}
+.insta3{
+    margin-left: 1320px;
+    margin-top: -32px;
+}
+.third{
+    width: 370px;
+    height: 600px;
+    margin-left: 1600px;
+    margin-top: -550px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 5px 5px 2px green;
+}
+.image3{
+    margin-left: 1670px;
+    margin-top: -580px;
+}
+.box4{
+    width: 320px;
+    height: 250px;
+    margin-left: 1630px;
+    margin-top: 30px;
+    background-color: #dcdcdc;
+}
+.head3{
+    margin-left:980px;
+}
+.head4{
+    margin-left: 990px;
+}
+.para3{
+    text-align: center;
+    margin-left: 1040px;
+    line-height: 20px;
+    font-size: 18px;
+    font-family: sans-serif;
+}  
+.fb2{
+    margin-left: 1720px;
+}
+.twit4{
+    margin-left: 1770px;
+    margin-top: -33px;
+}
+.insta4{
+    margin-left: 1820px;
+    margin-top: -33px;
+}
